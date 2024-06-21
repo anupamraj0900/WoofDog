@@ -1,5 +1,5 @@
 # WoofDog - Find the Perfect Playmate for Your Dog
-WoofDog is an innovative mobile app designed to help dog owners connect with other dogs and their owners in their local area. Whether you're looking for a playmate for your furry friend, organizing a group walk, or just want to meet fellow dog lovers, WoofDog makes it easy and fun.
+WoofDog is an innovative mobile app designed to help dog owners connect with other dogs and their owners in their local area. This web page is created to provide information about the WoofDog app, showcasing its features, pricing plans, and more.
 
 # Features
 Easy to Use: WoofDog boasts an intuitive interface that’s simple and straightforward, making it easy for users of all ages and technical backgrounds to navigate and enjoy.
@@ -17,6 +17,8 @@ Contact
 
 
 Join the WoofDog community today and make your dog’s social life as exciting as yours!
+# Technologies Used
+Bootstrap,CSS,JAVASCRIPT
 
 <img width="1440" alt="Screenshot 2024-06-22 at 2 21 37 AM" src="https://github.com/anupamraj0900/WoofDog/assets/70150362/3d365515-62a8-4f99-91b1-e7bde598c566">
 
