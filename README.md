@@ -20,7 +20,7 @@ Contact
 
 Join the WoofDog community today and make your dog’s social life as exciting as yours!
 <br>
-Technologies Used
+Technologies Used-
 Bootstrap,CSS,JAVASCRIPT
 
 <img width="1440" alt="Screenshot 2024-06-22 at 2 21 37 AM" src="https://github.com/anupamraj0900/WoofDog/assets/70150362/3d365515-62a8-4f99-91b1-e7bde598c566">
