@@ -19,6 +19,7 @@ Contact
 
 
 Join the WoofDog community today and make your dog’s social life as exciting as yours!
+<br>
 Technologies Used
 Bootstrap,CSS,JAVASCRIPT
 
